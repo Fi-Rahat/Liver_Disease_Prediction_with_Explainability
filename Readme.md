@@ -45,7 +45,7 @@ The notebook explores multiple classification algorithms, along with feature sel
 ## Repository Contents
 
 - `liver_disease_prediction.ipynb` — Main notebook containing the implementation and experiments.
-- `docs/` — Supplementary project report, if included.
+
 
 ## How to Run
 
